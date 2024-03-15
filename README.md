@@ -20,11 +20,10 @@ Departments with the highest number of closed cases
 Customizable filters for department, type of breach, and country/branch to obtain more specific data insights.
 # 3. Breach Analysis & Visualization
 Page 3 focuses on breach analysis and visualization, offering insights such as:
-
-# Most common types of breaches
+Most common types of breaches
 Amount of data stolen by each type of breach
 Trends in data breaches over the year
-Customizable filters for breach type, department, and more, accessible via dropdown selection.
+Customizable filters for breach type, department, and more, are accessible via dropdown selection.
 Usage
 Users can interact with the dashboard to gain valuable insights into data breaches and their impacts. The dashboard offers flexibility in analyzing breach data based on various parameters, enabling users to tailor their analysis according to specific requirements.
 
